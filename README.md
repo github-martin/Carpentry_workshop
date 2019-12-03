@@ -6,7 +6,7 @@ Martin Hoehne
 ## Date
 2019-12-03
 
-*this is just some stupid text*
+*this is just some stupid text*\n
 **no special functionality here**
 and a list
 - what
@@ -18,3 +18,5 @@ and a list
 - am
 - not
 - sure
+
+*end of list*
