@@ -6,7 +6,7 @@ Martin Hoehne
 ## Date
 2019-12-03
 
-*this is just some stupid text*\n
+*this is just some stupid text*
 **no special functionality here**
 and a list
 - what
